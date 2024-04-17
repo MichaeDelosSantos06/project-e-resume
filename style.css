@@ -1,0 +1,164 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Varela&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400;1,700&family=Varela&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    margin-left: 95px;
+    margin-top: 95px;
+   
+}
+
+.resume-container{
+    padding: 50px;
+    width: 85%;
+    height: 200%;
+    position: relative ;
+    background-color: whitesmoke;
+
+}
+.tinos-bold {
+    font-family: "Tinos", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+.profile{
+    width: 135px;
+    position: absolute;
+    right: 55px;
+    top: 35px;
+    border: 5px solid orangered;
+}
+
+.house-num, .city, .email, .name{
+    font-family: sans-serif;
+    position: relative;
+    left: 55px;
+}
+
+.varela-regular {
+    font-family: "Varela", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.title{
+    font-family: "Varela";
+    text-decoration: underline;
+    left: 50px;
+    position: relative;
+}
+
+h4, .secondary-lvl, .primary-lvl{
+    font-family: "Tinos";
+    font-size: large;
+    left: 70px;
+    position: relative;
+    font-weight: bold;
+    left: 5%;
+}
+
+
+.tertiary, .school-name, .school-address{
+    font-family: Verdana;
+    font-size: 15px;
+    font-size: medium;
+    position: relative;
+    left: 5%;
+    
+}
+
+pre{
+    font-family: Verdana;
+    font-size: medium;
+}
+
+.employment{
+    font-family: "Varela";
+    text-decoration: underline;
+    left: 50px;
+    position: relative;
+}
+
+.skills{
+    font-family: "Varela";
+    text-decoration: underline;
+    left: 50px;
+    position: relative;
+}
+
+.seminar{
+    font-family: "Varela";
+    text-decoration: underline;
+    left: 50px;
+    position: relative;
+}
+
+table{
+    position: relative;
+    left: 50px;
+    text-align: center;
+}
+
+tr, td, table{
+    border: 0.5px solid black;
+    font-family: Verdana;
+}
+
+td{
+   padding: 15px 25px;
+}
+
+
+.reference{
+    font-family: "Varela";
+    text-decoration: underline;
+    left: 50px;
+    position: relative;
+}
+
+.degree, .school-name-sec, .school-address-sec{
+    font-family: Verdana;
+    font-size: 15px;
+    font-size: medium;
+    position: relative;
+    left: 5%;
+    
+}
+
+.degree-prim, .school-name-prim, .school-address-prim{
+    font-family: Verdana;
+    font-size: 15px ;
+    font-size: medium;
+    position: relative;
+    left: 5%;
+   
+}
+
+.company-name, .company-address, .position{
+    font-family: Verdana;
+    font-size: 15px ;
+    font-size: medium;
+    position: relative;
+    left: 5%;
+  
+}
+
+ .skill-title, .sponsor{
+    font-family: Verdana;
+    font-size: 15px ;
+    font-size: medium;
+    position: relative;
+    left: 5%;
+}
+
+span{
+    font-family: "Varela";
+    font-weight: bold;
+    font-size: medium;
+
+}
+
+hr{
+   border: .5px solid black;
+}
